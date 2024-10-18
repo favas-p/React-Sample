@@ -1,0 +1,22 @@
+.app-header {
+    display: flex;
+    height: 50px;
+    align-items: center;
+    width: 88%;
+    margin: 10px auto;
+    justify-content: space-around;
+    color: #ffff;
+
+}
+
+.header-item span {
+    padding: 10px;
+}
+
+.header-title {
+    background: linear-gradient(140deg,#fc6500,#002499);
+    padding: 8px 15px;
+    border-radius: 25px;
+    font-weight: 500;
+    
+}

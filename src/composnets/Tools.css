@@ -1,0 +1,20 @@
+.list-tools{
+    padding: 20px;
+    margin-bottom: 50px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+}
+.list-footer{
+    font-size: 15px;
+    color: white;
+}
+select{
+    background: transparent;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px ;
+}
+option{
+    color: white;
+    background: black;
+}
